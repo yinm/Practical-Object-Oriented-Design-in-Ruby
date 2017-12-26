@@ -1,1 +1,2 @@
-# Practical-Object-Oriented-Design-in-Ruby
+[オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方](https://gihyo.jp/dp/ebook/2016/978-4-7741-8415-9)をやってます。
+
